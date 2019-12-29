@@ -1,2 +1,2 @@
-# personalhp.github.io
-This is a personal homepage?
+# Personal homepage
+This is a personal homepage? I don't know, maybe edit later?
